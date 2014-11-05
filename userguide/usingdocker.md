@@ -209,7 +209,7 @@ Docker可以配置绑定网络端口。在最后一个例子中`-P`标示，是`
 
 ###移除我们的应用程序
 
-你的同事告诉你它们现在已经完成了在容器上的工作，现在已经不需要了。让我们使用`docker rm`命令来删除它：
+你的同事告诉你它们现在已经完成了在容器上的工作，现在已经不再需要了。让我们使用`docker rm`命令来删除它：
 
 	$ sudo docker rm nostalgic_morse
 	Error: Impossible to remove a running container, please stop it first or use -f

@@ -1,7 +1,8 @@
 Docker Hub上的仓库和镜像
 ===
+先来一张Docker Hub的仓库和镜像界面截图：
 ![仓库镜像](../images/repos.png)
-
+===
 ##搜索仓库和镜像
 
 你可以使用 Docker 来搜索所有公开可用的仓库和镜像。
